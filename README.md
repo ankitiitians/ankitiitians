@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Srivastav</h1>
-<h3 align="center">Aspiring Site Reliability Engineer 2 with a proven track record in Platform Operations Engineering at Akamai and prior experience at Oracle. Specialized in Linux administration and cloud technologies, including Linode, AWS (with expertise in IAM Users, EC2, and VPC). Proficient in an array of DevOps tools, including Git, Ansible, Chef, and Docker, driving automation and system reliability. Passionate about delivering scalable and secure infrastructure solutions while embracing the principles of site reliability engineering.</h3>
+<h3 align="center">Aspiring Site Reliability Engineer 2, blending hands-on expertise in Platform Operations at Akamai with a solid foundation from Oracle, ready to shape the future of scalable, reliable systems.</h3>
 
 
-<img align="right" alt="coding" width="400" 
-     src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
-     style="margin-right: 50px;" />
-<br>
 
 
 
