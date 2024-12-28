@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ankit Srivastav</h1>
 <h3 align="center">Aspiring Site Reliability Engineer 2 with a proven track record in Platform Operations Engineering at Akamai and prior experience at Oracle. Specialized in Linux administration and cloud technologies, including Linode, AWS (with expertise in IAM Users, EC2, and VPC). Proficient in an array of DevOps tools, including Git, Ansible, Chef, and Docker, driving automation and system reliability. Passionate about delivering scalable and secure infrastructure solutions while embracing the principles of site reliability engineering.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw28W7TOXA6CIwTDk7Gapm2i&ust=1735497725397000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiEsYGPy4oDFQAAAAAdAAAAABAt">
+
+<img align="right" alt="coding" width="550" 
+     src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
+     style="margin-right: 50px;" />
+<br>
+
+
+
+<img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitiitians&label=Profile%20views&color=0e75b6&style=flat" alt="ankitiitians" /> </p>
 
 
-- 🔭 💼 Current Role: **Platform Operations Engineer at Akamai**
+- **💼 Current Role**: Platform Operations Engineer at Akamai
 
-- 🌱 I’m currently learning **Linux, Networking Administration, Version Control - Git & GitHub, Golang & Python, Docker, Kubernetes, Ansible, Prometheus Certified Associate (PCA), AWS, and Linode Cloud**
+- **🌱 I’m currently learning**:Linux, Networking Administration, Version Control - Git & GitHub, Golang & Python, Docker, Kubernetes, Ansible, Prometheus Certified Associate (PCA), AWS, and Linode Cloud
 
-- 👯 🤝 Open to Collaboration: **Seeking exciting opportunities as an SRE 2 to tackle challenging projects.**
+- **🤝 Open to Collaboration:** Seeking exciting opportunities as an SRE 2 to tackle challenging projects.
 
-- 🤝 I’m looking for help with **Guidance and insights into transitioning and thriving as an SRE 2.**
+- **👨‍💻 All of my projects are available at** [GitHub Portfolio](https://github.com/ankitiitians)
 
-- 👨‍💻 All of my projects are available at [Check out my GitHub Portfolio](https://github.com/ankitiitians)
+- **💬 Ask me about** System Administration, DevOps Practices, Cloud Computing, Networking Concepts
 
-- 📝 I regularly write articles on **Planning to share insights and tutorials soon—stay tuned!**
+- **📫 How to reach me** ankitsriv20@gmail.com
 
-- 💬 Ask me about **System Administration, DevOps Practices, Cloud Computing, Networking Concepts**
-
-- 📫 How to reach me **ankitsriv20@gmail.com**
-
-- ⚡ Fun fact: **When I’m not automating systems, I’m probably exploring the quirks of cloud technology or indulging in tech memes.**
+- **⚡ Fun fact**: When I’m not automating systems, I’m probably exploring the quirks of cloud technology or indulging in tech memes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
