@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Site Reliability Engineer 2 with a proven track record in Platform Operations Engineering at Akamai and prior experience at Oracle. Specialized in Linux administration and cloud technologies, including Linode, AWS (with expertise in IAM Users, EC2, and VPC). Proficient in an array of DevOps tools, including Git, Ansible, Chef, and Docker, driving automation and system reliability. Passionate about delivering scalable and secure infrastructure solutions while embracing the principles of site reliability engineering.</h3>
 
 
-<img align="right" alt="coding" width="400" 
+<img align="right" alt="coding" width="600" 
      src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
      style="margin-right: 50px;" />
 <br>
