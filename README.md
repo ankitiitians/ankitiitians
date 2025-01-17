@@ -15,7 +15,7 @@
 
 - **🤝 Open to Collaboration:** Seeking exciting opportunities as an SRE 2 to tackle challenging projects.
 
-- **👨‍💻 All of my projects are available at** [GitHub Portfolio](https://github.com/ankitiitians)
+- **👨‍💻 All of my projects are available at** [DevOps Projects](https://github.com/users/ankitiitians/projects/3)
 
 - **💬 Ask me about** System Administration, DevOps Practices, Cloud Computing, Networking Concepts
 
